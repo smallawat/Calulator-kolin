@@ -1,2 +1,5 @@
-# Flutter-calculator
-A basic calculator deployed by using flutter
+# Flutter Calculator
+
+A simple calculator app using Flutter
+
+![alt text](./Screenshot.png "Screenshot")
